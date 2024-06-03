@@ -26,7 +26,6 @@ Os componentes necessários para este projeto são:
    - Conecte o pino VCC do DS18B20 ao pino 5V do Arduino.
    - Conecte o pino GND do DS18B20 ao GND do Arduino.
    - Conecte o pino DQ do DS18B20 ao pino digital 2 do Arduino.
-   - Coloque um resistor de 4.7kΩ entre o pino DQ e o pino VCC do DS18B20.
 
 2. **Conexão do Display LCD 16x2 (I2C):**
    - Conecte o pino VCC do módulo I2C ao pino 5V do Arduino.
@@ -35,6 +34,7 @@ Os componentes necessários para este projeto são:
    - Conecte o pino SCL do módulo I2C ao pino A5 do Arduino.
 
 ## Imagem do projeto
+![image](https://github.com/aarthurbf/gs01edgecomputing/assets/161460625/fa15cbd0-2d2d-41b8-8bba-3769497cb5cf)
 
 
 ## Problema solucionado
