@@ -1,9 +1,12 @@
 # GLOBAL SOLUTION 01 EDGE COMPUTING
 
-# Projeto de Monitoramento Ambiental com Arduino
+# Projeto de Monitoramento Aquático com Arduino
 
 ## Link para o simulador:
-<https://wokwi.com/projects/396430011841560577>
+https://wokwi.com/projects/399679437458243585
+
+## Link para o vídeo:
+https://youtu.be/G61qitmcEgo
 
 ## Descrição do Projeto
 Este projeto visa monitorar a temperatura dos oceanos utilizando um sensor de temperatura DS18B20 e um display LCD 16x2 com interface I2C. As leituras de temperatura são exibidas em tempo real no display LCD, permitindo um monitoramento contínuo e preciso das condições ambientais.
